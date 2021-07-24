@@ -1,0 +1,18 @@
+# friends = ["Rolf", "Bob"]
+# abroad = ["Rolf", "Bob"]
+
+# print(friends == abroad)
+# print(friends is abroad) # this 'is' condition will create two different memory for the two lists
+
+# # "if" statement
+
+# number = 7
+# user_input = input("Enter 'y' if you would like to play: ").lower()
+# if user_input == 'y':
+#     user_number = int(input("Guess our number: "))
+#     if user_number == number:
+#         print("You guessed correctly!")
+#     elif abs(number - user_number) == 1: # abs is an absolute value (round of the positive value)
+#         print("You were off by one")
+#     else:
+#         print("Sorry, it's wrong!")
