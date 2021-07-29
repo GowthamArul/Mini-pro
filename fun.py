@@ -76,7 +76,7 @@
 # def add(x, y):
 #     return x + y
 # nums = {"x": 15, "y":25}
-# print(add(**nums)) # **nums (Keywork argument) will get the dictionary keywork and assing with respect to the values in the function arguments
+# print(add(**nums)) # **nums (Keywork argument) will get the dictionary keywork and assigning with respect to the values in the function arguments
 
 
 # def multiply(*args): # *args will get all the arguments which are passed
