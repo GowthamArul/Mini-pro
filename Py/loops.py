@@ -48,3 +48,10 @@
 #         s.append(friend)
 # print(starts_s)
 # print(s)
+
+
+
+a = [1,4,0,2,3,5]
+
+for a1 in a:
+    print(a[a1])
